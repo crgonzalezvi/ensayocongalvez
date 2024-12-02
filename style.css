@@ -6,3 +6,6 @@ h1,h2{
     color: brown;
 
 }
+.navbar.navbar-expand-lg.bg-body-tertiary{
+    background-color: #e3f2fd !important;
+}
